@@ -1,4 +1,4 @@
-package lesson35.model;
+package model;
 
 public class Session {
     private static User user;

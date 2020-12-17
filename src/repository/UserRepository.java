@@ -1,8 +1,8 @@
-package lesson35.repository;
+package repository;
 
-import lesson35.model.Session;
-import lesson35.model.User;
-import lesson35.model.UserType;
+import model.Session;
+import model.User;
+import model.UserType;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

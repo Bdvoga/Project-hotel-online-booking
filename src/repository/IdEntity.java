@@ -1,4 +1,4 @@
-package lesson35.repository;
+package repository;
 
 import java.util.Date;
 

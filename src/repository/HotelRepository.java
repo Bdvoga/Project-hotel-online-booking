@@ -1,6 +1,6 @@
-package lesson35.repository;
+package repository;
 
-import lesson35.model.Hotel;
+import model.Hotel;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

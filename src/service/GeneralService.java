@@ -1,7 +1,7 @@
-package lesson35.service;
+package service;
 
-import lesson35.model.Session;
-import lesson35.model.UserType;
+import model.Session;
+import model.UserType;
 
 public class GeneralService {
 

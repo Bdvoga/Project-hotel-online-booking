@@ -1,8 +1,8 @@
-package lesson35.demo;
+package demo;
 
-import lesson35.controller.RoomController;
-import lesson35.controller.UserController;
-import lesson35.model.Filter;
+import controller.RoomController;
+import controller.UserController;
+import model.Filter;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

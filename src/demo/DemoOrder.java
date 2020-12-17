@@ -1,7 +1,7 @@
-package lesson35.demo;
+package demo;
 
-import lesson35.controller.OrderController;
-import lesson35.controller.UserController;
+import controller.OrderController;
+import controller.UserController;
 
 public class DemoOrder {
     public static void main(String[] args) throws Exception {

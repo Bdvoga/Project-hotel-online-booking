@@ -1,11 +1,11 @@
-package lesson35.service;
+package service;
 
-import lesson35.model.Room;
-import lesson35.model.User;
-import lesson35.repository.GeneralRepository;
-import lesson35.repository.OrderRepository;
-import lesson35.repository.RoomRepository;
-import lesson35.repository.UserRepository;
+import model.Room;
+import model.User;
+import repository.GeneralRepository;
+import repository.OrderRepository;
+import repository.RoomRepository;
+import repository.UserRepository;
 
 import java.util.ArrayList;
 import java.util.Date;

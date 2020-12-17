@@ -1,7 +1,7 @@
-package lesson35.controller;
+package controller;
 
-import lesson35.model.Hotel;
-import lesson35.service.HotelService;
+import model.Hotel;
+import service.HotelService;
 
 import java.util.ArrayList;
 //    findHotelByName(String name) - поиск гостинницы по имени +

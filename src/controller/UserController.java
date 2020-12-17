@@ -1,8 +1,8 @@
-package lesson35.controller;
+package controller;
 
-import lesson35.model.Session;
-import lesson35.model.User;
-import lesson35.service.UserService;
+import model.Session;
+import model.User;
+import service.UserService;
 
 public class UserController {
 //    registerUser(User user) - регистрация пользователя в системе +-

@@ -1,6 +1,6 @@
-package lesson35.model;
+package model;
 
-import lesson35.repository.IdEntity;
+import repository.IdEntity;
 
 import java.util.Date;
 

@@ -1,8 +1,8 @@
-package lesson35.repository;
+package repository;
 
-import lesson35.model.Order;
-import lesson35.model.Room;
-import lesson35.model.User;
+import model.Order;
+import model.Room;
+import model.User;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

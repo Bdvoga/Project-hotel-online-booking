@@ -1,8 +1,8 @@
-package lesson35.demo;
+package demo;
 
-import lesson35.controller.HotelController;
-import lesson35.controller.UserController;
-import lesson35.model.Hotel;
+import controller.HotelController;
+import controller.UserController;
+import model.Hotel;
 
 public class DemoHotel {
 

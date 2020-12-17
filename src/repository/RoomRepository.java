@@ -1,8 +1,8 @@
-package lesson35.repository;
+package repository;
 
-import lesson35.model.Filter;
-import lesson35.model.Hotel;
-import lesson35.model.Room;
+import model.Filter;
+import model.Hotel;
+import model.Room;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

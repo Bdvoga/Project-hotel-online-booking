@@ -1,7 +1,7 @@
-package lesson35.service;
+package service;
 
-import lesson35.model.User;
-import lesson35.repository.UserRepository;
+import model.User;
+import repository.UserRepository;
 
 public class UserService {
 

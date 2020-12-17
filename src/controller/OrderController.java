@@ -1,6 +1,6 @@
-package lesson35.controller;
+package controller;
 
-import lesson35.service.OrderService;
+import service.OrderService;
 
 public class OrderController {
 //    void bookRoom(long roomId, long userId, Date dateFrom, Date dateTo) +-

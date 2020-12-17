@@ -1,8 +1,8 @@
-package lesson35.service;
+package service;
 
-import lesson35.model.Filter;
-import lesson35.model.Room;
-import lesson35.repository.RoomRepository;
+import model.Filter;
+import model.Room;
+import repository.RoomRepository;
 
 import java.util.ArrayList;
 

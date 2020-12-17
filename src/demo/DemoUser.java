@@ -1,8 +1,8 @@
-package lesson35.demo;
+package demo;
 
-import lesson35.controller.UserController;
-import lesson35.model.User;
-import lesson35.model.UserType;
+import controller.UserController;
+import model.User;
+import model.UserType;
 
 public class DemoUser {
 

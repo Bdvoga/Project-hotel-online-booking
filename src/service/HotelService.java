@@ -1,7 +1,7 @@
-package lesson35.service;
+package service;
 
-import lesson35.model.Hotel;
-import lesson35.repository.HotelRepository;
+import model.Hotel;
+import repository.HotelRepository;
 
 import java.util.ArrayList;
 
